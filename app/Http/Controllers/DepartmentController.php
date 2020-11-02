@@ -19,7 +19,10 @@ class DepartmentController extends Controller
         'data' => $data
         ]);
     }
-
+    public function index2()
+    {
+        //trial github;
+    }
     /**
      * Show the form for creating a new resource.
      *
